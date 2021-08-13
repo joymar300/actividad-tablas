@@ -1,7 +1,7 @@
 # Qué es html?
 HTML es el lenguaje en el cual se crean hipertexto y se definen elementos que conforman un pagina web.
 
-# ¿Cuales son las extensiones de los archivos HTML?*
+# ¿Cuales son las extensiones de los archivos HTML?
 
 ## Hipertexto
 Es aquel que tiene la capacidad de referenciar el texto de otro documento mediante el uso de vinculos.
